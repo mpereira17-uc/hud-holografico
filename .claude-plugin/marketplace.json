@@ -1,0 +1,5 @@
+{
+  "name": "hud-holografico",
+  "owner": { "name": "mpereira17-uc" },
+  "plugins": [{ "name": "hud-holografico", "source": "./" }]
+}
